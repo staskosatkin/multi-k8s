@@ -11,6 +11,7 @@ function App() {
         <div className="App">
           <div>
               <h1>Fib calculator version 1</h1>
+              <h2>With changes</h2>
               <Link to="/">Home</Link>
               <Link to="/otherpage">Other Page</Link>
           </div>
